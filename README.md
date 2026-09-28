@@ -1,3 +1,4 @@
+
 # FinPay • Premium Fintech Payment & 3D Card Animation Experience
 
 A production-ready, ultra-polished **Fintech Mobile Application UI built with Flutter**. Inspired by modern financial platforms like Revolut, Apple Pay, Stripe, and Linear, this app features state-of-the-art 3D card physics, morphing interactive UI controls, multi-stage security verification, and a tactile digital receipt printer interaction.
@@ -93,4 +94,13 @@ flutter run
 * **Typography**: Clean hierarchy with heavy font weights for amounts and spaced uppercase letter-spacing for card details.
 * **Motion Language**: Standard transitions $250\text{--}400\text{ms}$ with `Curves.easeOutCubic`, `Curves.elasticOut`, and spring physics.
 
+## 🎨 Visual Sample Images
+
+<img width="385" height="787" alt="Screenshot 2026-09-28 at 11 08 39 PM" src="https://github.com/user-attachments/assets/42050d3b-f554-4dd6-8fa9-0a39cf5000ee" />
+
+<img width="380" height="778" alt="Screenshot 2026-09-28 at 11 10 15 PM" src="https://github.com/user-attachments/assets/1d811b73-b0ce-4848-a3e4-25ae875f6b8b" />
+
+<img width="371" height="783" alt="Screenshot 2026-09-28 at 11 11 28 PM" src="https://github.com/user-attachments/assets/fd1d69a2-f108-4c9b-a4d8-2ac12d3cd6fe" />
+
+<img width="383" height="791" alt="Screenshot 2026-09-28 at 11 12 33 PM" src="https://github.com/user-attachments/assets/e83a7f47-b67c-4d91-9d30-f1e17230d971" />
 
